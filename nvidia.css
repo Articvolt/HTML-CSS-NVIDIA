@@ -198,7 +198,7 @@ aside {
 }
 
 .formulaire {
-    display:flex;
+    display:flex;   
     flex-direction: column;
     gap:5px;
 }
@@ -213,6 +213,8 @@ aside {
 
 /* Display flex permet de préparer les modification du parents
 necessaire pour débloquer les configurations en flex */
+
+/* MEDIA QUERIES */
 
 @media (max-width : 576px){    /*règle qui s'applique en dessous de 576px */
  
